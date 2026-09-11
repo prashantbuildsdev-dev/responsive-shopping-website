@@ -186,7 +186,7 @@ B.Tech CSE Student | Web Development |MERN Stack Development & DSA Learner
 ### Connect With Me
 
 * GitHub: https://github.com/PrashantBuildsDev
-* LinkedIn: Add your LinkedIn profile link here
+* LinkedIn: https://www.linkedin.com/in/%20prashant-kumar-4a9bb7352%20Vanity%20URL%20name
 
 ---
 
